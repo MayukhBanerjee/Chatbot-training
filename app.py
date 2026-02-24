@@ -23,7 +23,7 @@ llm = ChatGoogleGenerativeAI(
 )
 
 
-st.title("Hehe")
+st.title("This is my chatbot")
 input = st.text_input("What do you want to know?")
 
 
