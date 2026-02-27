@@ -16,6 +16,17 @@ We use ChromaDB , Faiss CPU , Lance etc. as Vector Databases
 
 
 
+In short
+Step 1: Data Ingestion
+
+from langchain_community.document_loaders import TextLoader
+from langchain_community.document_loaders import PyPdfLoader
+from langchain_community.document_loaders import WebBase Loader  and import bs4
+
+loader = TextLoader(chunk_size , chunk_overlap)
+loader = PyPdfLoader()
+loader = WebBaseLoader(link = "", bs_kwargs = dict(parse_only = bs4.SoupStrainer(class="")),)
 
 
+Step 2: 
 
