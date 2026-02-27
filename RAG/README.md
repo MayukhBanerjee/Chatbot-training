@@ -10,5 +10,12 @@ We will
     4) Store it in a database for retreival
 
 
+How to create vectors? 
+We can use embeddings and then we need to store in the database.
+We use ChromaDB , Faiss CPU , Lance etc. as Vector Databases
+
+
+
+
 
 
