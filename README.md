@@ -1,0 +1,1 @@
+This is just a project folder where I am going through the learning curve of how to build AI and utilize them for Automation and RAG
